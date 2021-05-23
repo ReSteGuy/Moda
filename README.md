@@ -17,3 +17,6 @@ No, only freeware is allowed.
 
 #### What freeware is first?
 Notepad++, Discord, Paint.NET, and Algodoo
+
+#### Why does it open my web browser?
+It's opening it so the website can give you the file.
